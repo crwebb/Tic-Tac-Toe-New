@@ -1,1 +1,2 @@
 # Tic-Tac-Toe-New
+A bais Tic-Tac-Toe project created as part of my time studying web development. Emphasis on this project was understanding closure, scope, factory functions and the revealing module pattern.
